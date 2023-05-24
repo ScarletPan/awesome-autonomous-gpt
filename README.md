@@ -33,7 +33,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/04/04] [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](), Michael Ahn, e al. [[demo]](https://say-can.github.io/)
 - [2021/12/17] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf), Reiichiro Nakano, et al.
 
-### Blogs
+### Blog Articles
 - [2023/04/20] [意识机器：实验、理论及实现方式](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
 - [2023/04/16] [4 Autonomous AI Agents you need to know](https://towardsdatascience.com/4-autonomous-ai-agents-you-need-to-know-d612a643fa92) By Sophia Yang
