@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Articles](#articles)
+- [Talks](#talks)
 
 ## Introduction
 Currently, I am deeply fascinated by and actively working on developing gpt-based autonomous AI agents that interact with the real world. I believe that, at this time, it presents the clearest roadmap towards achieving AGI. This project is a collection of awesome projects and resources related to autonomous ai agents for everyone.
@@ -41,3 +42,5 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/04/16] [4 Autonomous AI Agents you need to know](https://towardsdatascience.com/4-autonomous-ai-agents-you-need-to-know-d612a643fa92) By Sophia Yang
 - [2023/03/31] [也谈谈学会使用工具的ChatGPT](https://zhuanlan.zhihu.com/p/618448188) By Haojie Pan
 
+### Talks
+- [2023/05/24] [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A) by Andrej Karpathy | OpenAI 
