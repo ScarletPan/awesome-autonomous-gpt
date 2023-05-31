@@ -27,6 +27,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ## Articles
 ### Research Papers
+- [2023/05/25] [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf), Guanzhi Wang, et al. [[code]](https://github.com/MineDojo/Voyager) [[website]](https://voyager.minedojo.org/)
 - [2023/05/17] [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), Shunyu Yao, et al.[[code]](https://github.com/kyegomez/tree-of-thoughts) [[code-orig]](https://github.com/ysymyth/tree-of-thought-llm) 
 - [2023/04/07] [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442), Joon Sung Park, et al. [[code]](https://github.com/mkturkcan/generative-agents)
 - [2023/03/30] [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651), Aman Madaan, et al.[[code]](https://github.com/madaan/self-refine)
