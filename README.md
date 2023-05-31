@@ -14,6 +14,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 ## Projects
 
 ### Developer tools
+- [2023/05/25] [Gorilla](https://github.com/ShishirPatil/gorilla) - An API store for LLMs
 - [2023/03/31] [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
@@ -37,10 +38,10 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2021/12/17] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf), Reiichiro Nakano, et al.
 
 ### Blog Articles
-- [2023/04/20] [意识机器：实验、理论及实现方式](https://pattern.swarma.org/article/230) By Jiang Zhang
+- [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
 - [2023/04/16] [4 Autonomous AI Agents you need to know](https://towardsdatascience.com/4-autonomous-ai-agents-you-need-to-know-d612a643fa92) By Sophia Yang
-- [2023/03/31] [也谈谈学会使用工具的ChatGPT](https://zhuanlan.zhihu.com/p/618448188) By Haojie Pan
+- [2023/03/31] [ChatGPT that learns to use tools](https://zhuanlan.zhihu.com/p/618448188) By Haojie Pan
 
 ### Talks
 - [2023/05/24] [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A) by Andrej Karpathy | OpenAI 
