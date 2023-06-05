@@ -16,9 +16,11 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 ### Developer tools
 - [2023/05/25] [Gorilla](https://github.com/ShishirPatil/gorilla) - An API store for LLMs
 - [2023/03/31] [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
+- [2023/03/09] [LMQL](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2023/05/16] [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [2023/05/13] [Developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
 - [2023/04/07] [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. [[demo]](agentgpt.reworkd.ai)
 - [2023/04/03] [BabyAGI](https://github.com/yoheinakajima/babyagi) - an example of an AI-powered task management system
@@ -35,6 +37,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/03/20] [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf), Noah Shinn , et al. [[code]](https://github.com/noahshinn024/reflexion)
 - [2023/02/09] [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf), Timo Schick, et al. [[code]](https://github.com/lucidrains/toolformer-pytorch)
 - [2022/10/06] [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629.pdf), Shunyu Yao, et al. [[code]](https://github.com/ysymyth/ReAct)
+- [2022/07/20] [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/pdf/2207.05608.pdf), Wenlong Huang, et al. [[demo]](https://innermonologue.github.io/)
 - [2022/04/04] [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](), Michael Ahn, e al. [[demo]](https://say-can.github.io/)
 - [2021/12/17] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf), Reiichiro Nakano, et al.
 
