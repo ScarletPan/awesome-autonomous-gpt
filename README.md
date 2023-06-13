@@ -9,7 +9,7 @@
 
 ## Introduction
 Currently, I am deeply fascinated by and actively working on developing gpt-based autonomous AI agents that interact with the real world. I believe that, at this time, it presents the clearest roadmap towards achieving AGI. This project is a collection of awesome projects and resources related to autonomous ai agents for everyone.
-
+> 💡 This repo has been included in the [Auto-GPT wiki](https://github.com/Significant-Gravitas/Nexus/wiki/Awesome-Resources) !
 
 ## Projects
 
