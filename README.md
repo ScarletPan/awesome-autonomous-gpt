@@ -54,6 +54,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 
 ### Blog Articles
+- [2023/04/29] [AUTO-GPT: UNLEASHING THE POWER OF AUTONOMOUS AI AGENTS](https://www.leewayhertz.com/autogpt/) By Akash Takyar
 - [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
 - [2023/04/16] [4 Autonomous AI Agents you need to know](https://towardsdatascience.com/4-autonomous-ai-agents-you-need-to-know-d612a643fa92) By Sophia Yang
