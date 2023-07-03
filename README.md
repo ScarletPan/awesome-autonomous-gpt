@@ -25,6 +25,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/04/07] [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. [[demo]](agentgpt.reworkd.ai)
 - [2023/04/03] [BabyAGI](https://github.com/yoheinakajima/babyagi) - an example of an AI-powered task management system
 - [2023/03/30] [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
 
 
 ## Articles
