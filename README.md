@@ -55,6 +55,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 
 ### Blog Articles
+- [2023/06/23] [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) By Lilian Weng
 - [2023/04/29] [AUTO-GPT: UNLEASHING THE POWER OF AUTONOMOUS AI AGENTS](https://www.leewayhertz.com/autogpt/) By Akash Takyar
 - [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
