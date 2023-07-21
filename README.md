@@ -20,6 +20,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2023/06/11] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [2023/05/16] [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [2023/05/13] [Developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
 - [2023/04/07] [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. [[demo]](agentgpt.reworkd.ai)
@@ -27,9 +28,13 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/03/30] [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
 
+### Benchmarks
+- [2023/06/18] [Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
+- [2023/05/28] [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 
 ## Articles
 ### Research Papers
+- [2023/07/16] [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924), Chen Qian, et al.
 - [2023/06/09] [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/pdf/2306.06070.pdf), Xiang Deng, et al. [[code]](https://github.com/OSU-NLP-Group/Mind2Web) [[demo]](https://osu-nlp-group.github.io/Mind2Web/)
 - [2023/06/05] [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/pdf/2306.02707.pdf), Subhabrata Mukherjee et al.
 - [2023/05/25] [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf), Guanzhi Wang, et al. [[code]](https://github.com/MineDojo/Voyager) [[website]](https://voyager.minedojo.org/)
@@ -44,6 +49,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/03/30] [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651), Aman Madaan, et al.[[code]](https://github.com/madaan/self-refine)
 - [2023/03/30] [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf), Yongliang Shen, et al. [[code]](https://github.com/microsoft/JARVIS) [[demo]](https://huggingface.co/spaces/microsoft/HuggingGPT)
 - [2023/03/20] [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf), Noah Shinn, et al. [[code]](https://github.com/noahshinn024/reflexion)
+- [2023/03/04] [Towards A Unified Agent with Foundation Models](https://openreview.net/pdf?id=JK_B1tB6p-), Norman Di Palo et al.
 - [2023/02/23] [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173), Sahar Abdelnab, et al.
 - [2023/02/09] [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf), Timo Schick, et al. [[code]](https://github.com/lucidrains/toolformer-pytorch)
 - [2022/12/12] [LMQL: Prompting Is Programming: A Query Language for Large Language Models](https://arxiv.org/abs/2212.06094), Luca Beurer-Kellner, et al.
@@ -56,6 +62,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ### Blog Articles
 - [2023/06/23] [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) By Lilian Weng
+- [2023/06/11] [A CRITICAL LOOK AT AI-GENERATED SOFTWARE](https://spectrum.ieee.org/ai-software) By JAIDEEP VAIDYAHAFIZ ASIF
 - [2023/04/29] [AUTO-GPT: UNLEASHING THE POWER OF AUTONOMOUS AI AGENTS](https://www.leewayhertz.com/autogpt/) By Akash Takyar
 - [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
