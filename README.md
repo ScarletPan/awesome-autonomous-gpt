@@ -21,13 +21,13 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ### Applications
 - [2023/07/08] [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
+- [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
 - [2023/06/11] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [2023/05/16] [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [2023/05/13] [Developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
 - [2023/04/07] [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. [[demo]](agentgpt.reworkd.ai)
 - [2023/04/03] [BabyAGI](https://github.com/yoheinakajima/babyagi) - an example of an AI-powered task management system
 - [2023/03/30] [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
 
 ### Benchmarks
 - [2023/06/18] [Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
