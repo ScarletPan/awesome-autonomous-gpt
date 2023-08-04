@@ -43,6 +43,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/05/17] [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), Shunyu Yao, et al.[[code]](https://github.com/kyegomez/tree-of-thoughts) [[code-orig]](https://github.com/ysymyth/tree-of-thought-llm) 
 - [2023/05/12] [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185), Lili Yu, et al.
 - [2023/05/19] [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176), Lingjiao Chen, et al.
+- [2023/05/06] [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091), Lei Wang, et al.
 - [2023/05/01] [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833), Jack Lanchantin, et al.
 - [2023/04/24] [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244), Can Xu, et al.
 - [2023/04/22] [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477), Bo Liu, et al.
