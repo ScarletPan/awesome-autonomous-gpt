@@ -23,6 +23,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/07/08] [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
 - [2023/07/05] [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
+- [2023/06/30] [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [2023/06/11] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [2023/05/16] [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [2023/05/13] [Developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
