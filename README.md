@@ -66,13 +66,15 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 
 ### Blog Articles
+
+- [2023/08/14] [A Roadmap of AI Agents(Chinese)](https://zhuanlan.zhihu.com/p/649916692) By Haojie Pan
 - [2023/06/23] [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) By Lilian Weng
 - [2023/06/11] [A CRITICAL LOOK AT AI-GENERATED SOFTWARE](https://spectrum.ieee.org/ai-software) By JAIDEEP VAIDYAHAFIZ ASIF
 - [2023/04/29] [AUTO-GPT: UNLEASHING THE POWER OF AUTONOMOUS AI AGENTS](https://www.leewayhertz.com/autogpt/) By Akash Takyar
 - [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
 - [2023/04/16] [4 Autonomous AI Agents you need to know](https://towardsdatascience.com/4-autonomous-ai-agents-you-need-to-know-d612a643fa92) By Sophia Yang
-- [2023/03/31] [ChatGPT that learns to use tools](https://zhuanlan.zhihu.com/p/618448188) By Haojie Pan
+- [2023/03/31] [ChatGPT that learns to use tools(Chinese)](https://zhuanlan.zhihu.com/p/618448188) By Haojie Pan
 
 ### Talks
 - [2023/06/05] [Two Paths to Intelligence](https://www.youtube.com/watch?v=rGgGOccMEiY&t=1497s) by Geoffrey Hinton
