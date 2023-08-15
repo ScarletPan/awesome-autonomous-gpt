@@ -14,6 +14,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 ## Projects
 
 ### Developer tools
+- [2023/08/15] [Modelscope-agent](https://github.com/modelscope/modelscope-agent) - An agent framework connecting models in ModelScope with the world
 - [2023/05/25] [Gorilla](https://github.com/ShishirPatil/gorilla) - An API store for LLMs
 - [2023/03/31] [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [2023/03/09] [LMQL](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
@@ -37,6 +38,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ## Articles
 ### Research Papers
+- [2023/08/11] [BOLAA: Benchmarking and Orchestrating LLM-Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960v1.pdf), Zhiwei Liu, et al.
 - [2023/07/31] [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789), Yujia Qin, et al.
 - [2023/07/16] [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924), Chen Qian, et al.
 - [2023/06/09] [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/pdf/2306.06070.pdf), Xiang Deng, et al. [[code]](https://github.com/OSU-NLP-Group/Mind2Web) [[demo]](https://osu-nlp-group.github.io/Mind2Web/)
