@@ -14,7 +14,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 ## Projects
 
 ### Developer tools
-- [2023/8/10]  [ModelScope-Agent](https://github.com/modelscope/modelscope-agent) - An Agent Framework Connecting Models in ModelScope with the World
+- [2023/08/10]  [ModelScope-Agent](https://github.com/modelscope/modelscope-agent) - An Agent Framework Connecting Models in ModelScope with the World
 - [2023/05/25] [Gorilla](https://github.com/ShishirPatil/gorilla) - An API store for LLMs
 - [2023/03/31] [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [2023/03/09] [LMQL](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
@@ -34,7 +34,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/03/30] [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ### Benchmarks
-- [2023/08/07] [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents. [paper](https://arxiv.org/abs/2308.03688)
+- [2023/08/07] [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents. [[paper]](https://arxiv.org/abs/2308.03688)
 - [2023/06/18] [Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
 - [2023/05/28] [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 
