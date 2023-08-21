@@ -21,6 +21,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2023/08/20] [GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. 
 - [2023/07/08] [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
 - [2023/07/05] [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
@@ -39,6 +40,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ## Articles
 ### Research Papers
+- [2023/08/20] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155), Qingyun Wu, et al.
 - [2023/08/11] [BOLAA: Benchmarking and Orchestrating LLM-Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960v1.pdf), Zhiwei Liu, et al.
 - [2023/07/31] [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789), Yujia Qin, et al.
 - [2023/07/16] [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924), Chen Qian, et al.
