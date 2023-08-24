@@ -22,6 +22,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ### Applications
 - [2023/08/20] [GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. 
+- [2023/07/24] [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code
 - [2023/07/08] [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
 - [2023/07/05] [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
