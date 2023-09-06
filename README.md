@@ -47,7 +47,8 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/07/31] [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789), Yujia Qin, et al.
 - [2023/07/16] [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924), Chen Qian, et al.[[code]](https://github.com/OpenBMB/ChatDev)
 - [2023/06/09] [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/pdf/2306.06070.pdf), Xiang Deng, et al. [[code]](https://github.com/OSU-NLP-Group/Mind2Web) [[demo]](https://osu-nlp-group.github.io/Mind2Web/)
-- [2023/06/05] [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/pdf/2306.02707.pdf), Subhabrata Mukherjee et al.
+- [2023/06/05] [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/pdf/2306.02707.pdf), Subhabrata Mukherjee, et al.
+- [2023/06/05] [RecAgent: A Novel Simulation Paradigm for Recommender Systems](https://arxiv.org/abs/2306.02552), Lei Wang, et al. [[code]](https://github.com/RUC-GSAI/YuLan-Rec)
 - [2023/05/25] [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf), Guanzhi Wang, et al. [[code]](https://github.com/MineDojo/Voyager) [[website]](https://voyager.minedojo.org/)
 - [2023/05/23] [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323.pdf), Binfeng Xu, et al. [[code]](https://github.com/billxbf/ReWOO)
 - [2023/05/17] [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), Shunyu Yao, et al.[[code]](https://github.com/kyegomez/tree-of-thoughts) [[code-orig]](https://github.com/ysymyth/tree-of-thought-llm) 
