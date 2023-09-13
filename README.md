@@ -23,10 +23,12 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 ### Applications
 - [2023/08/20] [GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. 
 - [2023/07/24] [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code
+- [2023/07/18] [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation. 
 - [2023/07/08] [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
 - [2023/07/05] [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [2023/07/04] [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩DemoGPT enables you to create quick demos by just using prompts. [[demo]](demogpt.io)
 - [2023/06/30] [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [2023/06/21] [gpt-author](https://github.com/mshumer/gpt-author) - This project utilizes a chain of GPT-4, Stable Diffusion, and Anthropic API calls to generate an original fantasy novel. 
 - [2023/06/11] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [2023/05/16] [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [2023/05/13] [Developer](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
