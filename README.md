@@ -14,6 +14,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 ## Projects
 
 ### Developer tools
+- [2023/07/18] [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [2023/08/10]  [ModelScope-Agent](https://github.com/modelscope/modelscope-agent) - An Agent Framework Connecting Models in ModelScope with the World
 - [2023/05/25] [Gorilla](https://github.com/ShishirPatil/gorilla) - An API store for LLMs
 - [2023/03/31] [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
