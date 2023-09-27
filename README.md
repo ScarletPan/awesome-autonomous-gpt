@@ -44,6 +44,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ## Articles
 ### Research Papers
+- [2023/09/14] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864v1.pdf), Zhiheng Xi, et al. [[website]](https://arxiv.org/pdf/2309.07864v1.pdf)
 - [2023/08/22] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf), Lei Wang, et al.  [[website]](https://github.com/Paitesanshi/LLM-Agent-Survey)
 - [2023/08/20] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155), Qingyun Wu, et al.
 - [2023/08/11] [BOLAA: Benchmarking and Orchestrating LLM-Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960v1.pdf), Zhiwei Liu, et al.
