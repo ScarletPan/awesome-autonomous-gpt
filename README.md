@@ -39,6 +39,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/04/07] [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. [[demo]](agentgpt.reworkd.ai)
 - [2023/04/03] [BabyAGI](https://github.com/yoheinakajima/babyagi) - an example of an AI-powered task management system
 - [2023/03/30] [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [2023/03/09] [TaskMatrix](https://github.com/moymix/TaskMatrix) - Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
 ### Benchmarks
 - [2023/08/07] [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents. [[paper]](https://arxiv.org/abs/2308.03688)
