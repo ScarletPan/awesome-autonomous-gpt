@@ -24,6 +24,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ### Applications
 - [2023/10/18] [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
+- [2023/10/12] [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [2023/09/19] [autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. 
 - [2023/08/20] [GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. 
 - [2023/08/08] [OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild.
