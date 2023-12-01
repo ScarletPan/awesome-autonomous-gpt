@@ -17,6 +17,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/09/12] [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [2023/08/10] [ModelScope-Agent](https://github.com/modelscope/modelscope-agent) - An Agent Framework Connecting Models in ModelScope with the World
 - [2023/05/25] [Gorilla](https://github.com/ShishirPatil/gorilla) - An API store for LLMs
+- [2023/05/01] [AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications
 - [2023/03/31] [BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [2023/03/09] [LMQL](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
