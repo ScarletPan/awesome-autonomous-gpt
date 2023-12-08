@@ -56,6 +56,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/08/22] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf), Lei Wang, et al.  [[website]](https://github.com/Paitesanshi/LLM-Agent-Survey)
 - [2023/08/20] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155), Qingyun Wu, et al.
 - [2023/08/11] [BOLAA: Benchmarking and Orchestrating LLM-Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960v1.pdf), Zhiwei Liu, et al.
+- [2023/08/07] [TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage](https://arxiv.org/abs/2308.03427), Jingqing Ruan et al.
 - [2023/07/31] [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789), Yujia Qin, et al.
 - [2023/07/16] [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924), Chen Qian, et al.[[code]](https://github.com/OpenBMB/ChatDev)
 - [2023/06/09] [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/pdf/2306.06070.pdf), Xiang Deng, et al. [[code]](https://github.com/OSU-NLP-Group/Mind2Web) [[demo]](https://osu-nlp-group.github.io/Mind2Web/)
