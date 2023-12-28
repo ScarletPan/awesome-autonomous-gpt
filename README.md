@@ -9,6 +9,8 @@
 
 ## Introduction
 Currently, I am deeply fascinated by and actively working on developing gpt-based autonomous AI agents that interact with the real world. I believe that, at this time, it presents the clearest roadmap towards achieving AGI. This project is a collection of awesome projects and resources related to autonomous ai agents for everyone.
+> 🔥 Our self-developed agent system [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) now released! All of the system code, models and data are open-sourced.
+> 
 > 💡 This repo has been included in the [Auto-GPT wiki](https://github.com/Significant-Gravitas/Nexus/wiki/Awesome-Resources) !
 
 ## Projects
@@ -23,6 +25,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2023/12/08] [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
 - [2023/10/18] [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [2023/10/12] [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [2023/09/19] [autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. 
