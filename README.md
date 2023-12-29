@@ -53,6 +53,9 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 
 ## Articles
 ### Research Papers
+- [2023/12/22] [Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning](https://arxiv.org/pdf/2312.14878.pdf), Filippos Christianos et al.
+- [2023/12/07] [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455), Yuhan Chen et al. [[website]](https://github.com/AlibabaResearch/DAMO-ConvAI/attention-buckets)
+- [2023/10/09] [FireAct: Toward Language Agent Fine-tuning](https://arxiv.org/abs/2310.05915), Baian Chen et al. [[website]](https://fireact-agent.github.io/)
 - [2023/10/09] [Humanoid Agents: Platform for Simulating Human-like Generative Agents](https://arxiv.org/abs/2310.05418), Zhiling Wang et al. [[website]](https://github.com/HumanoidAgents/HumanoidAgents)
 - [2023/09/27] [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf), Theodore R. Sumers et al. 
 - [2023/09/14] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864v1.pdf), Zhiheng Xi, et al. [[website]](https://arxiv.org/pdf/2309.07864v1.pdf)
