@@ -25,6 +25,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2025/05/01] [OpenPaw](https://github.com/daxaur/openpaw) - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills (Telegram, Discord, Obsidian, daily briefings, and more). No daemon, no cloud.
 - [2023/12/08] [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
 - [2023/10/18] [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [2023/10/12] [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
