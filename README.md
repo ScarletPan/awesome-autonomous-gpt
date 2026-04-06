@@ -1,5 +1,6 @@
 # Awesome Autonomous GPT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested autonomous AI agent system prompts for Claude Code multi-agent orchestration with automated delegation and heartbeat monitoring. MIT licensed.
 ## Table of Contents
 
 - [Introduction](#introduction)
