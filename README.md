@@ -25,6 +25,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2026/06/23] [Agon](https://github.com/AutoResearch-Factory/Agon) - Autoresearch system with the smallest prompt footprint in its class (18 roles, 230.6 KiB); has run across 10+ disciplines without modification, longest unattended run lasted 30 days
 - [2023/12/08] [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
 - [2023/10/18] [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [2023/10/12] [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
@@ -47,6 +48,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/03/09] [TaskMatrix](https://github.com/moymix/TaskMatrix) - Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
 ### Benchmarks
+- [2026/06/07] [PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap) - 110 scenarios across 10 topologies for testing multi-agent orchestration prompt writing, with fragment-assignment accuracy and information leakage metrics
 - [2023/08/07] [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents. [[paper]](https://arxiv.org/abs/2308.03688)
 - [2023/06/18] [Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
 - [2023/05/28] [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
