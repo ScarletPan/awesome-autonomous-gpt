@@ -25,6 +25,7 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2022/10/25] [Langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
 ### Applications
+- [2026/09/21] [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first desktop app where a commander coordinates specialist agents and installed coding CLIs.
 - [2023/12/08] [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
 - [2023/10/18] [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [2023/10/12] [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
