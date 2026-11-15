@@ -46,6 +46,8 @@ Currently, I am deeply fascinated by and actively working on developing gpt-base
 - [2023/03/30] [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [2023/03/09] [TaskMatrix](https://github.com/moymix/TaskMatrix) - Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
+- [2026/11/15] [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for [No Stairs Please](https://nostairsplease.com/), enabling autonomous agents to search small live-music venues, capacities, and booking contacts across all 50 US states, DC, and BC.
+
 ### Benchmarks
 - [2023/08/07] [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents. [[paper]](https://arxiv.org/abs/2308.03688)
 - [2023/06/18] [Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
